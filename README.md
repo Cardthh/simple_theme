@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # simple_theme
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# simple_theme
+>>>>>>> 00511743dd0bcd1fdbd434a97a8d046c347810ef
